@@ -379,11 +379,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/altan.png">
+												<img src="img/altant.png">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/altan.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/altanp.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 
 														<i class="fa fa-search"></i>
 														</a>
@@ -406,11 +406,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/api.png">
+												<img src="img/apit.png">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/api.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/apip.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -433,11 +433,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/activitycenter.png">
+												<img src="img/activitycentert.png">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/activitycenter.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/activitycenterp.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -460,11 +460,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/petshelter.png">
+												<img src="img/petsheltert.png">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/petshelter.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/petshelterp.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -487,11 +487,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/wedding.png">
+												<img src="img/weddingt.png">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/wedding.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/weddingp.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -514,11 +514,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/portfolio.png">
+												<img src="img/portfoliot.png">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/portfolio.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/portfoliop.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -541,11 +541,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/all.jpg">
+												<img src="img/allt.jpg">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/all.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/allp.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -568,11 +568,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/books.jpg">
+												<img src="img/bookst.jpg">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/books.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/booksp.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -595,11 +595,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/pinkcomp.jpg">
+												<img src="img/pinkcompt.jpg">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/pinkcomp.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/pinkcompp.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -622,11 +622,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/trivia.jpg">
+												<img src="img/triviat.jpg">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/trivia.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/triviap.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
@@ -648,11 +648,11 @@
 
 											<div class="item">
 
-												<img src="img/portfolio/thumbnails/tracalorie.png">
+												<img src="img/tracaloriet.png">
 												
 
 													<div class="icons">
-														<a href="img/portfolio/tracalorie.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/tracaloriep.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
 															<i class="fa fa-search"></i>
 														</a>
 
