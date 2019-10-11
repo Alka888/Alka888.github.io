@@ -383,13 +383,10 @@
 												
 
 													<div class="icons">
-														<a href="img/altanp.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
+														<a href="img/altanp.png">
+		</a>
 
-														<i class="fa fa-search"></i>
-														</a>
-
-														<a href="http://www.altantransit.com" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="http://www.altantransit.com" target="_blank">
 														</a>
 														
 													</div>
@@ -410,12 +407,12 @@
 												
 
 													<div class="icons">
-														<a href="img/apip.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/apip.png">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -437,12 +434,12 @@
 												
 
 													<div class="icons">
-														<a href="img/activitycenterp.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/activitycenterp.png">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -464,12 +461,12 @@
 												
 
 													<div class="icons">
-														<a href="img/petshelterp.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/petshelterp.png">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -491,12 +488,12 @@
 												
 
 													<div class="icons">
-														<a href="img/weddingp.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/weddingp.png">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -518,12 +515,12 @@
 												
 
 													<div class="icons">
-														<a href="img/portfoliop.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/portfoliop.png">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -545,12 +542,12 @@
 												
 
 													<div class="icons">
-														<a href="img/allp.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/allp.jpg">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -572,12 +569,12 @@
 												
 
 													<div class="icons">
-														<a href="img/booksp.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/booksp.jpg">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -599,12 +596,12 @@
 												
 
 													<div class="icons">
-														<a href="img/pinkcompp.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/pinkcompp.jpg">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -626,12 +623,12 @@
 												
 
 													<div class="icons">
-														<a href="img/triviap.jpg" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/triviap.jpg">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
@@ -652,12 +649,12 @@
 												
 
 													<div class="icons">
-														<a href="img/tracaloriep.png" title="View image" class="openButton" data-fancybox data-caption="Consulting Website">
-															<i class="fa fa-search"></i>
+														<a href="img/tracaloriep.png">
+															
 														</a>
 
-														<a href="" target="_blank" class="projectLink">
-															<i class="fa fa-link"></i>
+														<a href="" target="_blank">
+															
 														</a>
 														
 													</div>
