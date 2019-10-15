@@ -84,7 +84,7 @@
 					<h4>My name is Alena Zhigmitova</h4>
 					<p>Hi There! I'm Alena Zhigmitova from Chicago, USA. I worked as a Junior Full Stack Software Engineer at EZ Local. Creative full stack developer who possesses a passion for designing fully functional, yet elegant web applications using Python, JavaScript, and C#/.NET. As a lifelong learner I am actively seeking employment opportunities where I can continue to develop my programming skills and build robust, user-friendly web applications and products.</p>
 					<p>I graduated from Qiqihar University in Qiqihar, China and received my Master's Degree in Business Administration and Computer Science and also spent five months in coding boot-camp studying Full Stack Web Development program with C#.Net, Python, MEAN at Coding Dojo in Chicago, IL. </p>
-					<a href="file:///C:/Users/Tenz&Alena/Desktop/development/Resume%202%20Updated.pdf"> Download Resume></a>
+					<a href="">Download Resume</a>
 				</div>
 				
 			</div>
@@ -382,302 +382,300 @@
 
 												<img src="img/altant.png">
 												
+								<div class="icons">
+									<a href="img/altanp.png">
+									</a>
 
-													<div class="icons">
-														<a href="img/altanp.png">
-		</a>
+									<a href="http://www.altantransit.com" target="_blank">
+									</a>
 
-														<a href="http://www.altantransit.com" target="_blank">
-														</a>
-														
-													</div>
-
-													<div class="imageOverlay">
-														
-													</div>
-												
-											</div>
-											
-										</li>
-
-										<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/apit.png">
-												
-
-													<div class="icons">
-														<a href="img/apip.png">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-
-										<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/activitycentert.png">
-												
-
-													<div class="icons">
-														<a href="img/activitycenterp.png">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-
-										<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/petsheltert.png">
-												
-
-													<div class="icons">
-														<a href="img/petshelterp.png">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-
-										<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/weddingt.png">
-												
-
-													<div class="icons">
-														<a href="img/weddingp.png">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-
-										<li class="websites col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/portfoliot.png">
-												
-
-													<div class="icons">
-														<a href="img/portfoliop.png">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-										
-										<li class="me col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/allt.jpg">
-												
-
-													<div class="icons">
-														<a href="img/allp.jpg">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-
-										<li class="me col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/bookst.jpg">
-												
-
-													<div class="icons">
-														<a href="img/booksp.jpg">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-
-										<li class="me col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/pinkcompt.jpg">
-												
-
-													<div class="icons">
-														<a href="img/pinkcompp.jpg">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-
-										<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/triviat.jpg">
-												
-
-													<div class="icons">
-														<a href="img/triviap.jpg">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-											</div>
-											
-										</li>
-
-										<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
-
-											<div class="item">
-
-												<img src="img/tracaloriet.png">
-												
-
-													<div class="icons">
-														<a href="img/tracaloriep.png">
-															
-														</a>
-
-														<a href="" target="_blank">
-															
-														</a>
-														
-													</div>
-
-														<div class="imageOverlay">
-														
-													</div>
-												
-												
-											</div>
-											
-										</li>
-
-								
-									</ul>
-									
 								</div>
-						
-					</div>
-					
+
+								<div class="imageOverlay">
+
+								</div>
+
+							</div>
+
+						</li>
+
+						<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/apit.png" class="img-thumbnail">
+
+									<div class="icons">
+										<a href="img/apip.png">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+										</div>
+
+
+							</div>
+
+						</li>
+
+						<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/activitycentert.png" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/activitycenterp.png">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+
+							</div>
+
+						</li>
+
+						<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/petsheltert.png" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/petshelterp.png">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+
+							</div>
+
+						</li>
+
+						<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/weddingt.png" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/weddingp.png">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+
+							</div>
+
+						</li>
+
+						<li class="websites col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/portfoliot.png" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/portfoliop.png">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+
+							</div>
+
+						</li>
+
+						<li class="me col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/allt.jpg" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/allp.jpg">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+
+							</div>
+
+						</li>
+
+						<li class="me col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/bookst.jpg" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/booksp.jpg">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+
+							</div>
+
+						</li>
+
+						<li class="me col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/pinkcompt.jpg" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/pinkcompp.jpg">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+
+							</div>
+
+						</li>
+
+						<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/triviat.jpg" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/triviap.jpg">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+							</div>
+
+						</li>
+
+						<li class="apps col-xs-6 col-sm-4 col-md-3 col-lg-3">
+
+							<div class="item">
+
+								<img src="img/tracaloriet.png" class="img-thumbnail">
+
+
+									<div class="icons">
+										<a href="img/tracaloriep.png">
+
+										</a>
+
+										<a href="" target="_blank">
+
+										</a>
+
+									</div>
+
+										<div class="imageOverlay">
+
+									</div>
+
+
+							</div>
+
+						</li>
+
+
+					</ul>
+
 				</div>
-			</div>
+
+	</div>
+
+</div>
+</div>
 
 
 	<script src="js/jquery.superslides.min.js"></script>
