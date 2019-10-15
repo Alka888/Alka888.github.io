@@ -143,8 +143,8 @@
 					   </div>
 
 					    <div class="skill">
-						   	<span class="chart" data-percent="63">
-						   		<span class="percent">63</span>
+						   	<span class="chart" data-percent="71">
+						   		<span class="percent">71</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>Python</h4>
