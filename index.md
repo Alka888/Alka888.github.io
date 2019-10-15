@@ -84,6 +84,7 @@
 					<h4>My name is Alena Zhigmitova</h4>
 					<p>Hi There! I'm Alena Zhigmitova from Chicago, USA. I worked as a Junior Full Stack Software Engineer at EZ Local. Creative full stack developer who possesses a passion for designing fully functional, yet elegant web applications using Python, JavaScript, and C#/.NET. As a lifelong learner I am actively seeking employment opportunities where I can continue to develop my programming skills and build robust, user-friendly web applications and products.</p>
 					<p>I graduated from Qiqihar University in Qiqihar, China and received my Master's Degree in Business Administration and Computer Science and also spent five months in coding boot-camp studying Full Stack Web Development program with C#.Net, Python, MEAN at Coding Dojo in Chicago, IL. </p>
+					<a href="file:///C:/Users/Tenz&Alena/Desktop/development/Resume%202%20Updated.pdf"> Download Resume></a>
 				</div>
 				
 			</div>
@@ -105,8 +106,8 @@
 					<div class="owl-carousel owl-theme">
 					   
 					   <div class="skill">
-						   	<span class="chart" data-percent="67">
-						   		<span class="percent">67</span>
+						   	<span class="chart" data-percent="89">
+						   		<span class="percent">89</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>Javascript</h4>
@@ -119,8 +120,8 @@
 					   </div>
 
 					   <div class="skill">
-						   	<span class="chart" data-percent="63">
-						   		<span class="percent">63</span>
+						   	<span class="chart" data-percent="86">
+						   		<span class="percent">86</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>C#/.NET Core</h4>
@@ -133,8 +134,8 @@
 					   </div>
 
 					   <div class="skill">
-						   	<span class="chart" data-percent="60">
-						   		<span class="percent">60</span>
+						   	<span class="chart" data-percent="72">
+						   		<span class="percent">72</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>Angular6</h4>
@@ -142,8 +143,8 @@
 					   </div>
 
 					    <div class="skill">
-						   	<span class="chart" data-percent="59">
-						   		<span class="percent">59</span>
+						   	<span class="chart" data-percent="63">
+						   		<span class="percent">63</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>Python</h4>
@@ -151,8 +152,8 @@
 					   </div>
 
 					   <div class="skill">
-						   	<span class="chart" data-percent="65">
-						   		<span class="percent">65</span>
+						   	<span class="chart" data-percent="75">
+						   		<span class="percent">75</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>Node.js</h4>
@@ -231,7 +232,7 @@
 
 					    <div class="skill">
 						   	<span class="chart" data-percent="65">
-						   		<span class="percent">55</span>
+						   		<span class="percent">65</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>Ajax</h4>
@@ -240,7 +241,7 @@
 
 					   <div class="skill">
 						   	<span class="chart" data-percent="65">
-						   		<span class="percent">45</span>
+						   		<span class="percent">65</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>API</h4>
@@ -250,7 +251,7 @@
 
 					   <div class="skill">
 						   	<span class="chart" data-percent="65">
-						   		<span class="percent">55</span>
+						   		<span class="percent">65</span>
 						   		<canvas height="152" width="152"></canvas>
 						   	</span>
 						   	<h4>JSON</h4>
@@ -356,7 +357,7 @@
 					<div class="row">
 
 						<div class="heading">
-							<h2>PORTFOLIO</h2>
+							<h2>Project's Gallery</h2>
 							
 						</div>
 
