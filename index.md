@@ -263,7 +263,7 @@
 
 		</div>
 
-	</div><br>
+	</div>
 
 			<div id="experience">
 				<div class="col-md-12 text-center">
