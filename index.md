@@ -302,9 +302,7 @@
 					<li> Managed the prospecting and qualifying of up to 100 leads weekly, selling logistics solutions to companies ranging from Fortune 300 corporations to small businesses; provided up to 30 daily capacity quotes for a range of services.</li>
 					<li>Streamlined an internal document upload process, leveraging Google Suite, that successfully established significant time savings for all employees within the sales group.</li>
 				</ul>
-				    </div>      
-				</div>
-			    </div>
+				    
 		    </div>
 		</div>
 
