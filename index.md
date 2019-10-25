@@ -77,7 +77,7 @@
 		<div class="container" >
 			<div class="row">
 				<div class="col-md-3">
-					<img class="aboutImage" src="img/me.JPG">
+					<img class="aboutImage" src="img/me (2).JPG">
 				</div>
 				<div class="col-md-9">
 					
