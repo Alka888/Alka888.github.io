@@ -133,11 +133,11 @@
 				   </div>
 
 				   <div class="skill">
-						<span class="chart" data-percent="75">
-							<span class="percent">75</span>
+						<span class="chart" data-percent="80">
+							<span class="percent">80</span>
 							<canvas height="152" width="152"></canvas>
 						</span>
-						<h4>Angular6</h4>
+						<h4>Angular8</h4>
 						<p>Used in three full stack projects - 
 							<a href="http://3.19.120.193/">Pet Shelter, </a> 
 							<a href="https://github.com/Alka888/Weather-Center">Weather-Center.</a>
@@ -280,7 +280,7 @@
 						<div id="experience" class="background-alt">
 					        <h2 class="heading">EXPERIENCE</h2>
 					        <div id="experience-timeline">
-						<div data-date="November 2019 – February 2020">
+							<h4>November 2019 – February 2020"></h4>
 							<h3><a href="https://www.cleanair.com/">Clean Air Engineering</a></h3>
 							<h4>Front End Developer - Intern</h4>
 							<p>
