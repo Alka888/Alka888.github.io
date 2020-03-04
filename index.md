@@ -292,7 +292,8 @@
 							</p>
 							<ul>
 								<li>
-									Made front-end changes to <a 														href="www.portal.clenair.com">Clean Cloud 												(modified existing
+									Made front-end changes to
+									<a href="www.portal.clenair.com">Clean Cloud</a>											(modified existing
 									software to correct errors and improve performance, added new 										features to
 									CleanCloud’s front end).
 								</li>
