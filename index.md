@@ -123,8 +123,8 @@
 							<span class="percent">86</span>
 							<canvas height="152" width="152"></canvas>
 						</span>
-						<h4>C#/.NET Core</h4>
-						<p>Used in three web applications -
+						<h4>C#/ ASP.NetCore</h4>
+						<p>Used in four web applications -
 							<a href="https://github.com/jamesjbamaung/WannaBet">Wanna Bet, </a> 
 							<a href="https://github.com/Alka888/wedding-planner">Wedding Planner, </a>
 							<a href="https://github.com/Alka888/chefs-dishes">Chefs&Dishes, </a>
@@ -138,7 +138,7 @@
 							<canvas height="152" width="152"></canvas>
 						</span>
 						<h4>Angular8</h4>
-						<p>Used in three full stack projects - 
+						<p>Used in two full stack projects - 
 							<a href="http://3.19.120.193/">Pet Shelter, </a> 
 							<a href="https://github.com/Alka888/Weather-Center">Weather-Center.</a>
 						</p>
@@ -150,7 +150,7 @@
 							<canvas height="152" width="152"></canvas>
 						</span>
 						<h4>Python</h4>
-						<p>Used in three full stack projects - 
+						<p>Used in two full stack projects - 
 							<a href="https://github.com/Alka888/Books-Authors">Books&Authors,</a> 
 							<a href="https://github.com/Alka888/TV-show">TV_Show</a>
 						</p>
@@ -221,7 +221,7 @@
 							<canvas height="152" width="152"></canvas>
 						</span>
 						<h4>My SQL</h4>
-						<p>Used in three full stack projects - 
+						<p>Used in two full stack projects - 
 							<a href="https://github.com/Alka888/Books-Authors">Books&Authors,</a> 
 							<a href="https://github.com/Alka888/TV-show">TV_Show</a>
 						</p>
@@ -233,7 +233,7 @@
 							<canvas height="152" width="152"></canvas>
 						</span>
 						<h4>MongoDB</h4>
-						<p>Used in three full stack projects - 
+						<p>Used in two full stack projects - 
 							 <a href="http://3.19.120.193/">Pet Shelter, </a>
 							<a href="https://github.com/Alka888/Weather-Center">Weather-Center.</a>
 						</p>
@@ -280,7 +280,7 @@
 						<div id="experience" class="background-alt">
 					        <h2 class="heading">EXPERIENCE</h2>
 					        <div id="experience-timeline">
-							<h4>November 2019 – February 2020"</h4>
+							<h4>November 2019 – February 2020</h4>
 							<h3><a href="https://www.cleanair.com/">Clean Air Engineering</a></h3>
 							<h4>Front End Developer - Intern</h4>
 							<p>
@@ -292,7 +292,7 @@
 							</p>
 							<ul>
 								<li>
-									Made front-end changes to Clean Cloud - www.portal.clenair.com 										(modified existing
+									Made front-end changes to <a 														href="www.portal.clenair.com">Clean Cloud 												(modified existing
 									software to correct errors and improve performance, added new 										features to
 									CleanCloud’s front end).
 								</li>
