@@ -280,7 +280,7 @@
 						<div id="experience" class="background-alt">
 					        <h2 class="heading">EXPERIENCE</h2>
 					        <div id="experience-timeline">
-							<h4>November 2019 – February 2020"></h4>
+							<h4>November 2019 – February 2020"</h4>
 							<h3><a href="https://www.cleanair.com/">Clean Air Engineering</a></h3>
 							<h4>Front End Developer - Intern</h4>
 							<p>
