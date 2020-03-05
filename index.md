@@ -298,7 +298,7 @@
 									CleanCloud’s front end).
 								</li>
 								<li>
-									Assistant with software testing and validation procedures and 										programming.
+									Assistant with software testing and validation procedures and 										programming. Identified, documented and reported bugs, errors, interoperability flaws and other issues within proprietary software applications developed. Assisted with troubleshooting. 
 								</li>
 								<li>
 									Technologies: Angular 8, Angular/Material, Angular/Bootstrap, 										AWS Serverless Services (S3, Cognito, IAM, Kinesis,
