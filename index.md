@@ -334,7 +334,7 @@
 					<p>Company based in Des Plaines, IL. Started as a small business in 2018. Altan Transit has united specialists of different directions with extensive practical experience in China. The company specializes in providing a range of business services between the US and China, taking into account all possible customer requirements. We have put together a team, who know the industry specifics of various goods and equipment. The result of working with Altan Transit is to increase efficiency and achieve stable, maximum high economic results in the activities of your company.</p>
 			<p>Created a consulting website for a client. </p>
 			<p>Efficiently hand-coded using HTML5, CSS3, Bootstrap, JavaScript - http://www.altantransit.com</p>
-	    </div>
+	
 
 			    <h4>November 2016 – January 2019</h4>
 				<h3>Arrow Trans Corp</h3>
